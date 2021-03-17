@@ -1,2 +1,2 @@
 spring.datasource.url=jdbc:mysql://localhost:3306/infytel_cust
-server.port:8200
+
